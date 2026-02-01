@@ -7,3 +7,7 @@
 ```bash
 npm install
 npm run dev
+
+```
+## Demo (Netlify)
+https://697f8482cb88edebb92340b5--timely-jelly-d1d796.netlify.app/
